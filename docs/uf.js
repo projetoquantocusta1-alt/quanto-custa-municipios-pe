@@ -5,7 +5,7 @@
 "use strict";
 /* ---- ESTADO (muda em cada repositório; o resto do arquivo é igual em todos) ---- */
 const CFG = {
-  UF: "PE", ESTADO: "Pernambuco", DO_ESTADO: "de Pernambuco", EM: "Em Pernambuco", em: "em Pernambuco", PARA: "para Pernambuco", N: "185",
+  UF: "PE", ESTADO: "Pernambuco", DO_ESTADO: "de Pernambuco", EM: "Em Pernambuco", em: "em Pernambuco", PARA: "para Pernambuco", N: "184",
   TRIB: "TCE-PE",
   TRIB_CURTO: ", e o robô ainda não foi testado no site dele",
   TRIB_TITULO: "Por que o Tesouro Nacional, e não o Tribunal de Contas do Estado de Pernambuco (TCE-PE)?",

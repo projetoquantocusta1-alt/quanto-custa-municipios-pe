@@ -8,7 +8,7 @@ UF = "PE"
 CODIGO_UF_IBGE = 26
 ESTADO = "Pernambuco"
 DO_ESTADO = "de Pernambuco"
-TOTAL_MUNICIPIOS = 185
+TOTAL_MUNICIPIOS = 184
 TRIBUNAL = "TCE-PE"   # tribunal de contas que tem os dados nota a nota das prefeituras do estado
 # --- fim do bloco ESTADO ---
 ANO_INICIAL = 2017
